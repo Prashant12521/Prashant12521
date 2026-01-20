@@ -1,19 +1,20 @@
-## Hi there 👋
+## Hi, I'm Prashant Kumar
 
-<!--
-**Prashant12521/Prashant12521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer with a strong focus on building clean, responsive, and user-centric web applications.  
+Currently a cohort student, consistently improving through hands-on projects and daily coding practice.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- **Languages:** JavaScript  
+- **Frontend:** React, Tailwind CSS, SCSS  
+- **Backend:** Node.js, Express  
+- **Deployment:** Vercel  
+- **Tools & Workflow:** Git, GitHub, VS Code  
+
+---
+
+### GitHub Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -21,3 +22,33 @@ Here are some ideas to get you started:
   <img alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/Prashant12521/Prashant12521/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashant12521&show_icons=true&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com?user=Prashant12521&theme=transparent)
+
+---
+
+### Featured Project
+
+**Astratto**  
+A frontend-focused design website built to practice translating modern UI designs into clean, responsive React components.  
+The project emphasizes layout accuracy, spacing, responsiveness, and component structuring using React and Tailwind CSS.
+
+- **Tech:** React, Tailwind CSS, JavaScript  
+- 🔗 **Live:** https://astratto-seven.vercel.app/  
+- 📂 **Repository:** https://github.com/Prashant12521/cohort-2.0/tree/main/challenge/8-design-react  
+
+---
+
+### Additional Work
+Alongside featured projects, I regularly build small practice projects to strengthen fundamentals, experiment with layouts, and improve problem-solving skills.
+
+---
+
+### Connect
+- LinkedIn: https://www.linkedin.com/in/prashant-kumar-160971386/  
+- GitHub: https://github.com/Prashant12521  
